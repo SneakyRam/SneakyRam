@@ -4,7 +4,7 @@
 
 ### Hacker mind. Artist soul.
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260px">
+<img src="banner/banner.jpeg" width="420px">
 
 </div>
 
@@ -51,23 +51,23 @@ Different worlds. Same mindset.
 I don’t just use tools.  
 I want to understand what’s underneath.
 
-- Why does it work?
-- Where does it break?
-- How can it be pushed further?
+- Why does it work?  
+- Where does it break?  
+- How can it be pushed further?  
 
 That’s where things get interesting.
 
 ---
 
-## 💃 The other side of me
+## 🎨 Art & Expression
 
-Dance keeps me sharp in a different way.
+<div align="center">
 
-It teaches control, timing, awareness —  
-things that matter just as much in hacking as they do in movement.
+<img src="ART_LINK_1" width="220px">
+<img src="ART_LINK_2" width="220px"><br>
+<img src="ART_LINK_3" width="220px">
 
-Not separate from tech.  
-Just another form of expression.
+</div>
 
 ---
 
@@ -81,13 +81,13 @@ Just another form of expression.
 
 <br><br>
 
-<a href="https://app.hackthebox.com/profile/your-htb-id">
-  <img src="https://www.hackthebox.com/badge/image/your-htb-id" alt="Hack The Box">
+<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+  <img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID" alt="Hack The Box">
 </a>
 
 <br><br>
 
-<a href="https://www.youtube.com/@yourchannel">
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
   <img src="https://img.shields.io/badge/YouTube-Raai.gen-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
@@ -100,9 +100,9 @@ Just another form of expression.
 Not chasing hype.
 
 I want to:
-- Build things that actually work
-- Break things that are supposed to be secure
-- Move freely between logic and creativity
+- Build things that actually work  
+- Break things that are supposed to be secure  
+- Move freely between logic and creativity  
 
 ---
 
