@@ -63,9 +63,12 @@ That’s where things get interesting.
 
 <div align="center">
 
-<img src="ART_LINK_1" width="220px">
-<img src="ART_LINK_2" width="220px"><br>
-<img src="ART_LINK_3" width="220px">
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/1.jpeg" width="220px">
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/2.jpeg" width="220px"><br>
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/3.jpeg" width="220px">
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/6.jpeg" width="220px">
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/8.jpeg" width="220px">
+<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/9.jpeg" width="220px">
 
 </div>
 
