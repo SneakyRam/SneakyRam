@@ -19,22 +19,20 @@
 
 ---
 
-## 🧠 Who am I?
+##  Who am I?
 
-Not here to follow one path.
+I’m still figuring things out.
 
-I build in silence.  
-I break to understand.  
-I move to express.
+Sometimes I’m deep into systems, trying to understand every small detail.  
+Sometimes I’m sketching. Sometimes I just put on music and move.
 
-Some days I’m inside systems, tracing logic and flaws.  
-Other days I’m outside of them, turning rhythm into motion.
+I don’t separate it.
 
-Different worlds. Same discipline.
+It’s all just part of how I think.
 
 ---
 
-## 🚀 Current State
+##  Current State
 
 - 🔥 Offensive Security (Web + Priv Esc + AD)
 - ⚙️ MERN Stack — building real systems
@@ -44,7 +42,7 @@ Different worlds. Same discipline.
 
 ---
 
-## ⚔️ Stack
+##  Stack
 
 <div align="center">
 
@@ -72,7 +70,7 @@ Different worlds. Same discipline.
 
 ---
 
-## 📊 Grind
+##  Grind
 
 <div align="center">
 
@@ -96,7 +94,7 @@ Different worlds. Same discipline.
 
 ---
 
-## 🧬 Direction
+##  Direction
 
 I’m not here to follow trends.
 
