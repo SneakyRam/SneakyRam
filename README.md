@@ -4,7 +4,16 @@
 
 ### Hacker mind. Artist soul.
 
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/banner/banner.jpeg" width="420px">
+<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/banner/banner.jpeg" width="520px">
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- subtle divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7A00FF&height=2&section=header"/>
 
 </div>
 
@@ -14,27 +23,28 @@
 
 Not here to follow one path.
 
-I’m building myself at the intersection of systems and expression —  
-breaking things to understand them, creating things to prove I can.
+I build in silence.  
+I break to understand.  
+I move to express.
 
-Some days I’m deep inside terminals, chasing vulnerabilities.  
-Other days I’m moving to beats, translating thoughts into motion.
+Some days I’m inside systems, tracing logic and flaws.  
+Other days I’m outside of them, turning rhythm into motion.
 
-Different worlds. Same mindset.
-
----
-
-## 🚀 What I’m doing right now
-
-- Diving deep into **Offensive Security** (web, privilege escalation, AD)
-- Building real-world apps with **MERN stack**
-- Solving CTFs and thinking like an attacker
-- Practicing **dance** — freestyle, hip-hop, controlled chaos
-- Getting sharper every single day
+Different worlds. Same discipline.
 
 ---
 
-## ⚔️ What I work with
+## 🚀 Current State
+
+- 🔥 Offensive Security (Web + Priv Esc + AD)
+- ⚙️ MERN Stack — building real systems
+- 🧩 CTFs — thinking like an attacker
+- 💃 Dance — freestyle, control, presence
+- ⚡ Daily growth — no zero days
+
+---
+
+## ⚔️ Stack
 
 <div align="center">
 
@@ -46,70 +56,60 @@ Different worlds. Same mindset.
 
 ---
 
-## 🧩 How I think
-
-I don’t just use tools.  
-I want to understand what’s underneath.
-
-- Why does it work?  
-- Where does it break?  
-- How can it be pushed further?  
-
-That’s where things get interesting.
-
----
-
-## 🎨 Art & Expression
+## 🎨 Selected Works
 
 <div align="center">
 
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/1.jpeg" width="220px">
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/2.jpeg" width="220px"><br>
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/3.jpeg" width="220px">
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/6.jpeg" width="220px">
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/8.jpeg" width="220px">
-<img src="https://github.com/SneakyRam/raai.gen-assets/blob/main/artworks/9.jpeg" width="220px">
+<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/1.jpeg" width="260px">
+<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/2.jpeg" width="260px">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/3.jpeg" width="260px">
+<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/8.jpeg" width="260px">
 
 </div>
 
 ---
 
-## 📊 Where I’m grinding
+## 📊 Grind
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/Sneakyram">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Sneakyram.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Sneakyram.png">
 </a>
 
 <br><br>
 
 <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
-  <img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID" alt="Hack The Box">
+  <img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID">
 </a>
 
 <br><br>
 
 <a href="https://www.youtube.com/@YOUR_CHANNEL">
-  <img src="https://img.shields.io/badge/YouTube-Raai.gen-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-Raai.gen-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🎯 What I’m aiming for
+## 🧬 Direction
 
-Not chasing hype.
+I’m not here to follow trends.
 
 I want to:
-- Build things that actually work  
-- Break things that are supposed to be secure  
-- Move freely between logic and creativity  
+- Build systems that hold
+- Break systems that shouldn’t
+- Move between logic and art without limits
 
 ---
 
-## 🧬 Final note
+<div align="center">
 
-> I’m not trying to fit into a category.  
-> I’m building my own.
+<!-- bottom glow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:0D0D0D&height=100&section=footer"/>
+
+</div>
