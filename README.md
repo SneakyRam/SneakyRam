@@ -1,48 +1,48 @@
 <div align="center">
 
-# ⚡ Raai.gen
+# ⚡ Raai.gen  
+### <sub>Hacker mind. Artist soul.</sub>
 
-### Hacker mind. Artist soul.
-
-<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/banner/banner.jpeg" width="520px">
+<a href="https://github.com/SneakyRam">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/banner/banner.jpeg" width="520px">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- subtle divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7A00FF&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:7A00FF&height=2"/>
 </div>
 
 ---
 
-##  Who am I?
+## <sub>who i am</sub>
 
 I’m still figuring things out.
 
-Sometimes I’m deep into systems, trying to understand every small detail.  
-Sometimes I’m sketching. Sometimes I just put on music and move.
+Some days I’m deep in systems, trying to understand every small detail —  
+how things work, where they break, what’s really going on underneath.
 
-I don’t separate it.
+Other days I’m sketching, or just moving to music without thinking too much.
+
+I don’t really separate it.
 
 It’s all just part of how I think.
 
 ---
 
-##  Current State
+## <sub>current state</sub>
 
-- 🔥 Offensive Security (Web + Priv Esc + AD)
-- ⚙️ MERN Stack — building real systems
-- 🧩 CTFs — thinking like an attacker
-- 💃 Dance — freestyle, control, presence
-- ⚡ Daily growth — no zero days
+- Offensive Security — web, privilege escalation, AD  
+- Building with MERN — trying to make things actually work  
+- CTFs — learning to think like an attacker  
+- Dance — freestyle, control, presence  
+- Showing up daily, even when it’s messy  
 
 ---
 
-##  Stack
+## <sub>stack</sub>
 
 <div align="center">
 
@@ -54,23 +54,40 @@ It’s all just part of how I think.
 
 ---
 
-## 🎨 Selected Works
+## <sub>selected work</sub>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/1.jpeg" width="260px">
-<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/2.jpeg" width="260px">
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/1.jpeg" width="240px">
+</a>
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/2.jpeg" width="240px">
+</a>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/3.jpeg" width="260px">
-<img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/8.jpeg" width="260px">
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/3.jpeg" width="240px">
+</a>
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/6.jpeg" width="240px">
+</a>
+
+<br>
+
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/8.jpeg" width="240px">
+</a>
+<a href="https://github.com/SneakyRam/raai.gen-assets/tree/main/artworks">
+  <img src="https://raw.githubusercontent.com/SneakyRam/raai.gen-assets/main/artworks/9.jpeg" width="240px">
+</a>
 
 </div>
 
 ---
 
-##  Grind
+## <sub>grind</sub>
 
 <div align="center">
 
@@ -94,20 +111,19 @@ It’s all just part of how I think.
 
 ---
 
-##  Direction
+## <sub>direction</sub>
 
-I’m not here to follow trends.
+I’m not really chasing trends.
 
-I want to:
-- Build systems that hold
-- Break systems that shouldn’t
-- Move between logic and art without limits
+I just want to get better at things that matter to me.
+
+- build things that actually hold up  
+- understand systems deeply  
+- break what needs to be broken  
+- keep creating, even outside tech  
 
 ---
 
 <div align="center">
-
-<!-- bottom glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:0D0D0D&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:0D0D0D&height=100"/>
 </div>
