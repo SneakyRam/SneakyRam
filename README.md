@@ -4,7 +4,7 @@
 
 ### Hacker mind. Artist soul.
 
-<img src="banner/banner.jpeg" width="420px">
+<img src="raai.gen-assets/blob/main/banner/banner.jpeg" width="420px">
 
 </div>
 
